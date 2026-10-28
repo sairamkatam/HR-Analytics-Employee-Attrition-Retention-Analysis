@@ -86,19 +86,19 @@ The relationship between job satisfaction and attrition varied between male and 
 
 ### Excel Dashboard
 
-![Excel HR Analytics Dashboard](https://github.com/sairamkatam/HR-Analytics-Project/blob/main/HR%20Analysis%20Dashboard.jpg)
+![Excel HR Analytics Dashboard](https://github.com/sairamkatam/HR-Analytics-Employee-Attrition-Retention-Analysis/blob/main/HR%20Analysis%20Dashboard.jpg)
 
 ### Power BI Dashboard
 
-![Power BI HR Analytics Dashboard](https://github.com/sairamkatam/HR-Analytics-Project/blob/main/Power%20Bi%20HR%20Analysis%20Dashboard.png)
+![Power BI HR Analytics Dashboard](https://github.com/sairamkatam/HR-Analytics-Employee-Attrition-Retention-Analysis/blob/main/Power%20Bi%20HR%20Analysis%20Dashboard.png)
 
 ### Tableau Dashboard
 
-![Tableau HR Analytics Dashboard](https://github.com/sairamkatam/HR-Analytics-Project/blob/main/Tableau%20HR%20Analysis%20Dashboard.jpg)
+![Tableau HR Analytics Dashboard](https://github.com/sairamkatam/HR-Analytics-Employee-Attrition-Retention-Analysis/blob/main/Tableau%20HR%20Analysis%20Dashboard.jpg)
 
 ### SQL Analysis Queries
 
-![SQL HR Analysis Queries](https://github.com/sairamkatam/HR-Analytics-Project/blob/main/SQl%20HR%20Analysis%20Queries.jpg)
+![SQL HR Analysis Queries](https://github.com/sairamkatam/HR-Analytics-Employee-Attrition-Retention-Analysis/blob/main/SQl%20HR%20Analysis%20Queries.jpg)
 
 ## 🧹 Data Challenges
 
@@ -127,6 +127,7 @@ The analysis provides HR stakeholders with a structured view of employee attriti
 - Power BI Dashboard
 - Tableau Dashboard
 - Project Presentation
+- 
 
 ---
 
