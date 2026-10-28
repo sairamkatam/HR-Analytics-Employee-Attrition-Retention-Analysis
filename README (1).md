@@ -1,23 +1,24 @@
-<h1 align="center">Hi 👋, I'm Karthik Pallamala</h1>
+<h1 align="center">Hi 👋, I'm Katam Sairam</h1>
 <h3 align="center">Data Analyst</h3>
 
-- 👨‍💻 All of my projects are available at [https://karthikpallamala574-boop.github.io/Portfolio/](https://karthikpallamala574-boop.github.io/Portfolio/)
+<p align="center">
+  <a href="https://github.com/sairamkatam">GitHub</a> |
+  <a href="https://www.linkedin.com/in/sairam-katam-662002380/">LinkedIn</a> |
+  <a href="mailto:sairamkatam5@gmail.com">Email</a>
+</p>
 
-- 📫 How to reach me **Karthikpallamala574@gmail.com**
+- 👨‍💻 Explore my projects on [GitHub](https://github.com/sairamkatam)
+- 📫 Contact me: **sairamkatam5@gmail.com**
 
 # HR Analytics — Employee Attrition & Retention Analysis
 
 ## 📌 Project Overview
 
-An HR Analytics project focused on analyzing employee attrition
-and exploring workforce factors such as department, income,
-job satisfaction, work-life balance, age, gender, education,
-and working years.
+An HR Analytics project focused on analyzing employee attrition and exploring workforce factors such as department, income, job satisfaction, work-life balance, age, gender, education, and working years.
 
 ## 🎯 Business Problem
 
-HR teams need to understand where employee attrition occurs
-and which workforce characteristics require further investigation.
+HR teams need to understand where employee attrition occurs and which workforce characteristics require further investigation.
 
 ## 👥 Target Users
 
@@ -60,55 +61,56 @@ and which workforce characteristics require further investigation.
 - Monthly Income
 - Average Working Years
 - Attrition by Department
-- Attrition by Age/Gender
+- Attrition by Age and Gender
 - Attrition by Education Field
 
 ## 🔎 Key Findings
 
 ### Department Attrition
-Research & Development recorded the highest department-level
-attrition rate in the analysis at 51.21%.
+
+Research & Development recorded the highest department-level attrition rate in the analysis at 51.21%.
 
 ### Working Years
-Software had the highest average working years among the
-departments analyzed at 20.65.
+
+Software had the highest average working years among the departments analyzed at 20.65.
 
 ### Income & Attrition
-Attrition varied only slightly across income groups, showing
-that higher income alone did not correspond to lower attrition
-in this analysis.
+
+Attrition varied only slightly across income groups, showing that higher income alone did not correspond to lower attrition in this analysis.
 
 ### Job Satisfaction
-The relationship between job satisfaction and attrition varied
-between male and female employees.
+
+The relationship between job satisfaction and attrition varied between male and female employees.
 
 ## 📈 Dashboards
 
 ### Excel Dashboard
-![image alt](https://github.com/karthikpallamala574-boop/HR-Analytics-Project/blob/aa0c338cfc1e3009cebd6ece2746c22c584ce67e/HR%20Analysis%20Dashboard.jpg)
+
+![Excel HR Analytics Dashboard](https://github.com/sairamkatam/HR-Analytics-Project/blob/main/HR%20Analysis%20Dashboard.jpg)
 
 ### Power BI Dashboard
-![image alt](https://github.com/karthikpallamala574-boop/HR-Analytics-Project/blob/694f202b8def2d0ef52e52481b29683a575b2d8a/Power%20Bi%20HR%20Analysis%20Dashboard.png)
+
+![Power BI HR Analytics Dashboard](https://github.com/sairamkatam/HR-Analytics-Project/blob/main/Power%20Bi%20HR%20Analysis%20Dashboard.png)
 
 ### Tableau Dashboard
-![image alt](https://github.com/karthikpallamala574-boop/HR-Analytics-Project/blob/bf86c14e2357c071def45fcbf5366b309affecdf/Tableau%20HR%20Analysis%20Dashboard.jpg)
 
-### Tableau Dashboard
-![image alt](https://github.com/karthikpallamala574-boop/HR-Analytics-Project/blob/a156dbcfa7854460630be9b20c66e10941b25afc/SQl%20HR%20Analysis%20Queries.jpg)
+![Tableau HR Analytics Dashboard](https://github.com/sairamkatam/HR-Analytics-Project/blob/main/Tableau%20HR%20Analysis%20Dashboard.jpg)
+
+### SQL Analysis Queries
+
+![SQL HR Analysis Queries](https://github.com/sairamkatam/HR-Analytics-Project/blob/main/SQl%20HR%20Analysis%20Queries.jpg)
 
 ## 🧹 Data Challenges
 
-- Null values
-- Duplicate entries
-- Formatting inconsistencies
+- Handling null values
+- Removing duplicate entries
+- Resolving formatting inconsistencies
 - Selecting relevant KPIs
 - Interpreting non-obvious relationships
 
 ## 💡 Business Value
 
-The analysis provides HR stakeholders with a structured view
-of employee attrition and related workforce characteristics,
-helping identify areas that need deeper investigation.
+The analysis provides HR stakeholders with a structured view of employee attrition and related workforce characteristics, helping identify areas that need deeper investigation.
 
 ## 🚀 Future Improvements
 
@@ -125,3 +127,15 @@ helping identify areas that need deeper investigation.
 - Power BI Dashboard
 - Tableau Dashboard
 - Project Presentation
+
+---
+
+## 🤝 Connect With Me
+
+- **Name:** Katam Sairam
+- **Role:** Data Analyst
+- **Email:** [sairamkatam5@gmail.com](mailto:sairamkatam5@gmail.com)
+- **LinkedIn:** [Sairam Katam](https://www.linkedin.com/in/sairam-katam-662002380/)
+- **GitHub:** [sairamkatam](https://github.com/sairamkatam)
+
+<p align="center">⭐ Thank you for visiting my project! ⭐</p>
